@@ -1,6 +1,6 @@
 ---
 # Display name
-title: AKR
+title: Arun Kumar Ramasamy
 
 # Name pronunciation (optional)
 name_pronunciation: 
